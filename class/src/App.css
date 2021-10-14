@@ -1,0 +1,38 @@
+table, td {
+  border: 2px solid red;
+  border-collapse: collapse;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  height: 70px;
+  width: 280px;
+}
+
+td {
+  padding: 15px;
+}
+
+.input1 {
+  border: 1px solid red;
+  border-radius: 30px; 
+  padding: 10px;
+
+}
+
+#btn1 {
+  width: 100px;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+  text-align: center;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  margin-left: -3px;
+  top: 0;
+}
